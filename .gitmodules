@@ -1,0 +1,12 @@
+[submodule "DRL"]
+	path = DRL
+	url = https://github.com/wangshusen/DRL.git
+[submodule "DeepLearning"]
+	path = DeepLearning
+	url = https://github.com/wangshusen/DeepLearning.git
+[submodule "spinningup"]
+	path = spinningup
+	url = https://github.com/openai/spinningup.git
+[submodule "MathsFoundation_of_RL"]
+	path = MathsFoundation_of_RL
+	url = https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning.git
