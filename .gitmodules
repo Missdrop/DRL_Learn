@@ -10,3 +10,6 @@
 [submodule "MathsFoundation_of_RL"]
 	path = MathsFoundation_of_RL
 	url = https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning.git
+[submodule "MachineLearningImplementation"]
+	path = MachineLearningImplementation
+	url = https://github.com/vincen-github/mlimpl.git
