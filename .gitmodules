@@ -13,3 +13,6 @@
 [submodule "MachineLearningImplementation"]
 	path = MachineLearningImplementation
 	url = https://github.com/vincen-github/mlimpl.git
+[submodule "DeepRL"]
+	path = DeepRL
+	url = https://github.com/DeepRLChinese/DeepRL-Chinese.git
