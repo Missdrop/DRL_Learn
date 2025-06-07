@@ -16,3 +16,6 @@
 [submodule "DeepRL"]
 	path = DeepRL
 	url = https://github.com/DeepRLChinese/DeepRL-Chinese.git
+[submodule "DL-Wang"]
+	path = DL-Wang
+	url = https://github.com/wangshusen/DeepLearning.git
